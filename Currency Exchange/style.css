@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: "Montserrat";
+}
+
+body {
+    background-color: #FEFFDE;
+    align-items: center;
+    padding: 3rem;
+}
+
+.currency, .swap-container .rate {
+    padding: 1rem;
+}
+
+.money-img {
+    width: 30%;
+    height: 30%;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+
+
